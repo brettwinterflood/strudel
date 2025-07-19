@@ -1,4 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/switchangel/pad/main/",
-  "lead": ["Korg-M1-Angels-C4.wav"]
+  "lead": ["Korg-M1-Angels-C4.wav"],
+  "angel": "Korg-M1-Angels-C4.wav"
 }
