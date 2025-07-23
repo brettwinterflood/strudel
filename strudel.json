@@ -1,5 +1,15 @@
 {
   "_base": "https://raw.githubusercontent.com/brettwinterflood/strudel-leads/main/",
   "lead": ["Korg-M1-Angels-C4.wav"],
-  "angel": "Korg-M1-Angels-C4.wav"
+  "angel": "Korg-M1-Angels-C4.wav",
+  "organBass": [
+    "0_ORGAN BASS M1/organBass1.wav",
+    "0_ORGAN BASS M1/organBass2.wav",
+    "0_ORGAN BASS M1/organBass3.wav",
+    "0_ORGAN BASS M1/organBass4.wav",
+    "0_ORGAN BASS M1/organBass5.wav",
+    "0_ORGAN BASS M1/organBass6.wav",
+    "0_ORGAN BASS M1/organBass7.wav",
+    "0_ORGAN BASS M1/organBass8.wav"
+  ]
 }
